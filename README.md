@@ -1,3 +1,3 @@
 # hackerrrank
 
-# Implementation in Scala, Functional Programming Style
+## Implementation in Scala, Functional Programming Style
